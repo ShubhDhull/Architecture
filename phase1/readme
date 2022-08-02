@@ -2,10 +2,8 @@ phase 1:
 Created a functional simulator for subset RISC V instructions.
 The simulator is in single cpp file
 
-Team members:
-Shubham Dhull 2017ceb1029
-
-Testing and Debugging: Shubham
+Written by:
+Shubham Dhull
 
 Instructions covered are : 
 R type : add, sub, xor, mul, div, modulo, and
